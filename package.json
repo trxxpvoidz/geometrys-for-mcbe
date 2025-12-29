@@ -7,7 +7,6 @@
     "build": "echo 'No build step required'"
   },
   "dependencies": {
-    "@vercel/node": "^1^.0.0",
     "discord.js": "^2^.14.1"
   }
 }
