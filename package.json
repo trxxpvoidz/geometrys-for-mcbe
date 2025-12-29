@@ -7,6 +7,6 @@
     "build": "echo 'No build step required'"
   },
   "dependencies": {
-    "discord.js": "^2^.14.1"
+    "discord.js": "^1^.14.1"
   }
 }
