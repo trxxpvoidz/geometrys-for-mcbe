@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "vercel dev",
-    "build": "echo 'No build step required'"
+    "build": "echo \"No build step required\""
   },
   "dependencies": {
-    "discord.js": "^1^.14.1"
+    "discord.js": "^14.14.1"
   }
 }
